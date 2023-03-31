@@ -11,3 +11,6 @@
 
 ## Example
 * Execute `./examples/tutorials/dermoscopy.ipynb`
+
+## Datasets
+* https://challenge.isic-archive.com/data/#2018
